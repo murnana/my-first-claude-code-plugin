@@ -1,0 +1,13 @@
+{
+  "name": "my-first-claude-code-plugin",
+  "owner": {
+    "name": "murnana"
+  },
+  "plugins": [
+    {
+      "name": "my-first-plugin",
+      "source": "./plugins/my-first-plugin",
+      "description": "Adds a greeting /hello skill"
+    }
+  ]
+}
